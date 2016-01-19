@@ -1,0 +1,8 @@
+stoner (0.1) unreleased; urgency=medium
+
+  * stoner/stoner.py
+    - created file helper class
+    - created dicrectory helper class
+
+ -- Olakanmi McZlatan Bourne <bournethesonofthegun@gmail.com> Wed, 05 Jan 2016 09:58:15 -0600
+
