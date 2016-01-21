@@ -28,7 +28,7 @@ try:
     elif sys.argv[1] == '-d' or sys.argv[1] == '--cwd':
             try:
                 print getCurrentDirectory()
-            except Exception: print "Error: Could not rertrieve current working directory"
+            except Exception: print "Error: Could not retrieve current working directory"
     else:
             print "USAGE: stoner -s [--stone] filename.ext" + "\n" + "       stoner -d [--cwd]"
 except Exception: print "USAGE: stoner -s [--stone] filename.ext" + "\n" + "       stoner -d [--cwd]"
